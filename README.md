@@ -22,15 +22,15 @@ The site offers data visualization, live monitoring, and alerting features, maki
 ## Preview
 
 Here are some snapshots from the dashboard:
+### Device View
+![Device](./device.jpg)
 
 ### Main Dashboard View
+![Dashboard](./dashboard-pc.png)
 
-
-### Environmental Data Visualization
-
-
-### Positional Tracking Map
-
+### Data Visualization in Mobile View
+![Environmental Data](./figure-mobile.jpg)
+![Positional Tracking](./location-mobile.jpg)
 
 ---
 
@@ -42,23 +42,4 @@ This project is built using:
 - **Backend**: ASP.NET, handling server-side logic and data processing.
 - **Database**: SQL Server, managed through SQL Server Management Studio (SSMS), for reliable and efficient data storage.
 
----
 
-## Repository Structure
-
-- `index.html` - Main page of the dashboard
-- `src/` - Contains React components and frontend code
-- `api/` - ASP.NET backend logic and API endpoints
-- `assets/` - Images, CSS, and JavaScript for visuals
-- `images/` - Screenshots of the site for documentation
-- `README.md` - This file
-
----
-
-## Getting Started
-
-To run this project locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
