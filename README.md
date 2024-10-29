@@ -2,7 +2,8 @@
 # Environmental and Positional Monitoring Dashboard
 
 Welcome to the repository for my monitoring dashboard website! This dashboard provides real-time insights and tracking capabilities for environmental and positional data transmitted by each device to the server. You can view the live site here:
-
+### LOGO
+![Dashboard](./image.png)
 
 
 ---
