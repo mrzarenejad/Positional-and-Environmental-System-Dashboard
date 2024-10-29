@@ -16,7 +16,15 @@ This dashboard serves as a centralized interface for monitoring various data str
 - **Positional Data**: Real-time tracking of device locations with map integration.
 
 The site offers data visualization, live monitoring, and alerting features, making it ideal for managing and understanding data trends over time.
+---
 
+## Technology Stack
+
+This project is built using:
+
+- **Frontend**: JavaScript with the React framework, providing a responsive and interactive UI.
+- **Backend**: ASP.NET, handling server-side logic and data processing.
+- **Database**: SQL Server, managed through SQL Server Management Studio (SSMS), for reliable and efficient data storage.
 ---
 
 ## Preview
@@ -32,14 +40,6 @@ Here are some snapshots from the dashboard:
 ![Environmental Data](./figure-mobile.jpg)
 ![Positional Tracking](./location-mobile.jpg)
 
----
 
-## Technology Stack
-
-This project is built using:
-
-- **Frontend**: JavaScript with the React framework, providing a responsive and interactive UI.
-- **Backend**: ASP.NET, handling server-side logic and data processing.
-- **Database**: SQL Server, managed through SQL Server Management Studio (SSMS), for reliable and efficient data storage.
 
 
